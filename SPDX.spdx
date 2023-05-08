@@ -1,0 +1,5 @@
+SPDXVersion: SPDX-2.1
+    PackageName: Green Computing Toolbox
+    PackageOriginator: MIT Lincoln Laboratory
+    PackageCopyrightText: 2022 Massachusetts Institute of Technology
+    PackageLicenseDeclared: MIT
